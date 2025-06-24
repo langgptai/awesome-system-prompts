@@ -34,6 +34,10 @@ This project collects and organizes system prompts from various mainstream LLMs,
 - **[Lovart](/Agents/Lovart/)** - AI创作工具
 - **[Manus](/Agents/Manus/)** - AI通用智能体
 - **[Trae](/Agents/Trae/)** - AI编程智能体
+- **[Cline](/Agents/Cline/)** - AI 编程智能体
+- **[OpenAICodexCLI](/Agents/OpenAICodexCLI/)** - AI编程智能体
+- **[Lovable](/Agents/Lovable/)** - AI编程智能体
+
 
 ## 🚀 如何使用 | How to Use
 
