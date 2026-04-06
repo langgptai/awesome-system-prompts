@@ -37,6 +37,7 @@ This project collects and organizes system prompts from various mainstream LLMs,
 - **[Cline](/Agents/Cline/)** - AI 编程智能体
 - **[OpenAICodexCLI](/Agents/OpenAICodexCLI/)** - AI编程智能体
 - **[Lovable](/Agents/Lovable/)** - AI编程智能体
+- **[Guardian Orchestrator](/Agents/GuardianOrchestrator/)** - Production multi-agent orchestrator (57 agents, 24/7)
 
 
 ## 🚀 如何使用 | How to Use
