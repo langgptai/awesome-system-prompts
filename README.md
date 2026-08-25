@@ -37,7 +37,15 @@ This project collects and organizes system prompts from various mainstream LLMs,
 - **[Cline](/Agents/Cline/)** - AI 编程智能体
 - **[OpenAICodexCLI](/Agents/OpenAICodexCLI/)** - AI编程智能体
 - **[Lovable](/Agents/Lovable/)** - AI编程智能体
+- **[ClaudeCode](/Agents/ClaudeCode/)** - Anthropic 终端编程智能体
+- **[Cluely](/Agents/Cluely/)** - AI 实时辅助工具
 
+
+### 🔗 延伸阅读 | See also（2026）
+
+- 各家官方系统提示的公开版本：[Anthropic 系统提示发布页](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- Agent 时代"系统提示"的新形态——`SKILL.md`（[Agent Skills 开放标准](https://agentskills.io/)）、`CLAUDE.md` / `AGENTS.md` 项目记忆文件、[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 的提示分节（prompt sections）插件
+- 提示写法：[LangGPT 结构化提示词](https://github.com/langgptai/LangGPT)、[DeepSeek V4 思考模式提示技巧](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md#deepseek-v4-思考模式提示技巧)
 
 ## 🚀 如何使用 | How to Use
 
