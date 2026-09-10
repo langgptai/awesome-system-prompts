@@ -39,6 +39,9 @@ This project collects and organizes system prompts from various mainstream LLMs,
 - **[Lovable](/Agents/Lovable/)** - AI编程智能体
 - **[ClaudeCode](/Agents/ClaudeCode/)** - Anthropic 终端编程智能体
 - **[Cluely](/Agents/Cluely/)** - AI 实时辅助工具
+- **[QwenCode](/Agents/QwenCode/)** - 阿里巴巴终端编程智能体
+- **[KiloCode](/Agents/KiloCode/)** - 开源编程智能体
+- **[Hermes](/Agents/Hermes/)** - Nous Research 终端智能体
 
 
 ### 🔗 延伸阅读 | See also（2026）
