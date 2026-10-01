@@ -104,3 +104,7 @@ This project collects and organizes system prompts from various mainstream LLMs,
 **Created by 云中江树 (微信公众号：云中江树)**
 
 *如果这个项目对您有帮助，请给我们一个 ⭐！*
+---
+
+## 🇰🇷 한국어 안내 (Korean Guide)
+이 저장소는 ChatGPT, Claude, DeepSeek 등 전 세계에서 가장 뛰어난 인공지능(LLM)들의 내부 '시스템 프롬프트'를 모아둔 곳입니다. AI가 특정 역할을 부여받아 어떻게 작동하는지 분석하고 연구하는 데 큰 도움이 됩니다. 앞으로 더 많은 프롬프트들의 한글 번역 기여를 환영합니다!
