@@ -43,7 +43,8 @@ This project collects and organizes system prompts from various mainstream LLMs,
 
 ### 🔗 延伸阅读 | See also（2026）
 
-- 各家官方系统提示的公开版本：[Anthropic 系统提示发布页](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- 各家官方系统提示的公开版本：[Anthropic 系统提示发布页](https://platform.claude.com/docs/en/release-notes/system-prompts) · [xAI 官方公开的 Grok 系统提示（xai-org/grok-prompts）](https://github.com/xai-org/grok-prompts)
+- 2026-11 模型侧变化：Claude Opus 5.5 建议在对话中途追加 system 消息来更新指令、不要重建历史（[迁移指南](https://platform.claude.com/docs/en/models/opus-5-5/migration-guide)）；DeepSeek 11 月 13 日起把联网搜索、URL 读取等由服务端拼装进上下文（[公告](https://api-docs.deepseek.com/news/news261113)）——写系统提示时可直接声明可用工具，而不必在提示里塞检索结果
 - Agent 时代"系统提示"的新形态——`SKILL.md`（[Agent Skills 开放标准](https://agentskills.io/)）、`CLAUDE.md` / `AGENTS.md` 项目记忆文件、[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 的提示分节（prompt sections）插件
 - 提示写法：[LangGPT 结构化提示词](https://github.com/langgptai/LangGPT)、[DeepSeek V4 思考模式提示技巧](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md#deepseek-v4-思考模式提示技巧)
 
